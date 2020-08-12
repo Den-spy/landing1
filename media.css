@@ -1,0 +1,25 @@
+@media (max-width: 800px) {
+	.menu {
+		position: static;
+	}
+	.menu a {
+		width: 100%;
+		padding: 20px 0;
+	}
+	#startup {
+		margin-top: 0;
+	}
+	#company {
+	background-image: none;
+	}
+	.company-text {
+		width: 90%;
+		text-align: center;
+	}
+	.team-item {
+	min-width: 80%;
+	}
+	.tarif {
+	width: 90%;
+	}
+}
